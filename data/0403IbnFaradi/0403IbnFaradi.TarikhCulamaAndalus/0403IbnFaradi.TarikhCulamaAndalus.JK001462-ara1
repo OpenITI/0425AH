@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_001462
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: ابن الفرضي
-#NewRec# 010.AuthorNAME	:: الحافظ أبي الوليد عبد الله بن محمد بن يونس الأزدي
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 403
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: تاريخ العلماء والرواة للعلم بالأندلس
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: تواريخ البلدان :: تواريخ البلدان والعوائل :: كتب التاريخ
-#NewRec# 022.BookVOLS	:: 2
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: تاريخ العلماء بالأندلس
-#NewRec# 030.LibURI	:: JK_001462
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: عزت العطار الحسيني
-#NewRec# 041.EdNUMBER	:: الثانية
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: مطبعة المدني
-#NewRec# 044.EdPLACE	:: القاهرة
-#NewRec# 045.EdYEAR	:: 1408هـ/ 1988م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_001462
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: ابن الفرضي
+#META# 010.AuthorNAME	:: الحافظ أبي الوليد عبد الله بن محمد بن يونس الأزدي
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 403
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: تاريخ العلماء والرواة للعلم بالأندلس
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: تواريخ البلدان :: تواريخ البلدان والعوائل :: كتب التاريخ
+#META# 022.BookVOLS	:: 2
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: تاريخ العلماء بالأندلس
+#META# 030.LibURI	:: JK_001462
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: عزت العطار الحسيني
+#META# 041.EdNUMBER	:: الثانية
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: مطبعة المدني
+#META# 044.EdPLACE	:: القاهرة
+#META# 045.EdYEAR	:: 1408هـ/ 1988م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
