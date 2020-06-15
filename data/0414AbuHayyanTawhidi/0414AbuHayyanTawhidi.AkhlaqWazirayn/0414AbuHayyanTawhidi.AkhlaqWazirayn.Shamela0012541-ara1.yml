@@ -1,14 +1,16 @@
 00#VERS#CLENGTH##: 247227
 00#VERS#LENGTH###: 59019
 00#VERS#URI######: 0414AbuHayyanTawhidi.AkhlaqWazirayn.Shamela0012541-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771408962
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771408962
+80#VERS#LINKS####: https://ia800304.us.archive.org/26/items/akhlakwazirain/AkhlaqWazirayn.pdf
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: p. 531 is missing; one verse missing on p. 407;
+  occasionally, individual hemistichs were not separated by %~% (see the poems on pp. 222, 373, 398, 428, 430, 523, 524). 
+  The reason is that, in such cases, the boundary between the two hemistichs corresponds to a consonant with tashdīd 
+  (such as yaladh %~% dhu, yuḥak %~% kimu, him %~% mati, etc.), which cannot be split.
+  In such cases, %~% has been inserted as -%~%- according to the respective metre, with
+  one of the doubled consonants on each side of -%~%- (e.g., yaladh-%~%-dhu, yuḥak-%~%-kimu, etc.);
+  on p. 524, %~% has been added by the annotator according to the metre. 
+90#VERS#DATE#####: 2020-06-12
+90#VERS#ISSUES###: MISSING_PARTS, NO_MAJOR_ISSUES
