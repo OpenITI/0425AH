@@ -5,7 +5,7 @@
 10#AUTH#NASAB##AR: b. al-Ḥusayn
 10#AUTH#NISBA##AR: al-Ābī
 10#AUTH#SHUHRA#AR: Abū Saʿd al-Ābī
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#BORN#####: Jibal_RE
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
@@ -14,6 +14,6 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: Both Abū Saʿd and Abū Saʿīd are attested as his kunya, 
-    but Encyclopaedia Islamica prefers Abū Saʿd 
+90#AUTH#COMMENT##: Both Abū Saʿd and Abū Saʿīd are attested as his kunya,
+    but Encyclopaedia Islamica prefers Abū Saʿd
     (http://dx.doi.org/10.1163/1875-9831_isla_SIM_0079).
