@@ -1,9 +1,9 @@
 00#VERS#CLENGTH##: 331404
 00#VERS#LENGTH###: 77266
 00#VERS#URI######: 0406SharifRadi.NahjBalagha.Shia20200618-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/919318392
-80#VERS#COLLATED#: http://www.worldcat.org/oclc/919318392
-80#VERS#LINKS####: https://www.noor-book.com/كتاب-نهج-البلاغه-شرح-محمد-عبده-pdf
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771195145
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771195145
+80#VERS#LINKS####: https://archive.org/details/20191116_20191116_0651
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: The original digital text included a commentary on
     the text by Muhammad Abduh, rendered entirely in footnotes. I have
@@ -20,5 +20,6 @@
     its own subsection. If these are not made headers, however, the whole
     volume would simply be one section, so I thought it would be better to
     at least keep this division.
+   NOTE OF THE REVIEWER (HRH): A lot of titles that were tagged incompletely or included parts of the body text corrected. Editorial removed.
 90#VERS#DATE#####: 2020-06-17
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
