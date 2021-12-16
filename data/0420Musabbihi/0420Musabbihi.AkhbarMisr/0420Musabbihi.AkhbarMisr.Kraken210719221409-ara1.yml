@@ -9,5 +9,12 @@
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+    * Added annotation
+    * Minor corrections to OCR
+    * Removed editor's introduction
+    * Removed footnotes
+    * Corrected pagination
+    * Where two words are close together in the print they are sometimes elided - attempted to add spaces where I have spotted  this
+    * Occasionall missing characters on the starts of lines
 90#VERS#DATE#####: 2021-07-19
 90#VERS#ISSUES###:
