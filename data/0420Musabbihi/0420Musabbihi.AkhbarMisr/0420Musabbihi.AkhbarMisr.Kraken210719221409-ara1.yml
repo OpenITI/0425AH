@@ -16,5 +16,7 @@
     * Corrected pagination
     * Where two words are close together in the print they are sometimes elided - attempted to add spaces where I have spotted  this
     * Occasionall missing characters on the starts of lines
+    * Spaces in middle of words at starts of lines - fixed where I have spotted this
+    * Random chars - usually colons ':' - at ends of lines, produced by artefacts on the pages 
 90#VERS#DATE#####: 2021-07-19
 90#VERS#ISSUES###:
