@@ -19,6 +19,5 @@
     * Spaces in middle of words at starts of lines - fixed where I have spotted this
     * Random chars - usually colons ':' - at ends of lines, produced by artefacts on the pages
     * Where multiple poems quoted on one page with different indentation - transcription is very messy - resulting from poor line segmentation - these instances have been corrected
-    * At the end of the work there are two collections of excerpts of al-Musabbihi's text from al-Maqrizi's Itticaz and Khitat added by the editor. These have been marked as editorial, and no post correction has been undertaken. A separate version will be created .MAB07012022 with these sections removed.   
-90#VERS#DATE#####: 2021-07-19
+    * At the end of the work there are two collections of excerpts of al-Musabbihi's text from al-Maqrizi's Itticaz and Khitat added by the editor. These have been removed in this version.
 90#VERS#ISSUES###:
