@@ -1,6 +1,6 @@
 00#VERS#CLENGTH##: 276804
 00#VERS#LENGTH###: 67794
-00#VERS#URI######: 0420Musabbihi.AkhbarMisr.Kraken210719221409-ara1
+00#VERS#URI######: 0420Musabbihi.AkhbarMisr.MAB07012022-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1107144190
 80#VERS#COLLATED#:
 80#VERS#LINKS####: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D8%B3%D9%86%D8%AA%D9%8A%D9%86-%D9%A4%D9%A1%D9%A4-%D9%A4%D9%A1%D9%A5-%D9%87-pdf 
@@ -19,6 +19,5 @@
     * Spaces in middle of words at starts of lines - fixed where I have spotted this
     * Random chars - usually colons ':' - at ends of lines, produced by artefacts on the pages
     * Where multiple poems quoted on one page with different indentation - transcription is very messy - resulting from poor line segmentation - these instances have been corrected
-    * At the end of the work there are two collections of excerpts of al-Musabbihi's text from al-Maqrizi's Itticaz and Khitat added by the editor. These have been marked as editorial, and no post correction has been undertaken. A separate version will be created .MAB07012022 with these sections removed.   
-90#VERS#DATE#####: 2021-07-19
+    * At the end of the work there are two collections of excerpts of al-Musabbihi's text from al-Maqrizi's Itticaz and Khitat added by the editor. These have been removed in this version.
 90#VERS#ISSUES###:
