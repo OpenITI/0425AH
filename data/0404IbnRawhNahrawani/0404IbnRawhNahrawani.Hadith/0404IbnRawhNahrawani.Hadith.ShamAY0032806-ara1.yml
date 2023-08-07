@@ -3,7 +3,8 @@
 00#VERS#URI######: 0404IbnRawhNahrawani.Hadith.ShamAY0032806-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+80#VERS#LINKS####:
+    https://ar.wikisource.org/wiki/ملف:حديث_أبي_بكر_عمر_بن_روح_بن_علي_النهرواني_خ.pdf
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
 90#VERS#COMMENT##: a free running comment here; you can add as many
