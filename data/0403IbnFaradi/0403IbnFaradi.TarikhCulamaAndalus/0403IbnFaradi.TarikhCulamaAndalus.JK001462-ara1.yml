@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ebook.univeyes.com/180329
 90#VERS#ANNOTATOR: LeipZig Team
 90#VERS#COMMENT##: The text has been tagged before; no proper YML file.
-   NOTE OF THE REVIEWER (HRH): PARATEXT added. Removed unnecessary tags. Corrected levelling of the headers.
+       NOTE OF THE REVIEWER (HRH): PARATEXT added. Removed unnecessary tags. Corrected levelling of the headers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
