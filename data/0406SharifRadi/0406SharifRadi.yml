@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0406-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q130561
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan Muḥammad b. Abī Aḥmad al-Ḥusayn b. Mūsā, was born in Bag̲h̲dād in 359/970, of an illustrious and highly sophisticated ʿAlīd family, and died in 406/1016.": http://dx.doi.org/10.1163/1573-3912_islam_COM_1042

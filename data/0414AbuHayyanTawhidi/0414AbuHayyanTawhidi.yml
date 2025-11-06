@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0414-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q2695766
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "ʿAlī b. Muḥ. b. al-ʿAbbās (probably called al-Tawḥīdī after the sort of dates called tawhīd ), man of letters and philosopher of the 4th/10th century. The place of his birth is given either as Nīs̲h̲āpūr, S̲h̲īrāz, Wāsiṭ or Bag̲h̲dād; its date must be placed between 310-20/922-32.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_0202

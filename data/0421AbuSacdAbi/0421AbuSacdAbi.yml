@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 421-XX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q16127738
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Both Abū Saʿd and Abū Saʿīd are attested as his kunya,
     but Encyclopaedia Islamica prefers Abū Saʿd
